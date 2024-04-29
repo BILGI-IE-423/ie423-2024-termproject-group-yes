@@ -14,7 +14,7 @@ This project seeks to explore the temporal dynamics between the release years of
 
 The primary objective of this study is to investigate the relationship between the release year of films recognized by the Oscars and the year they are made accessible on Netflix. Specifically, our objectives include:
 
-1. Collecting a comprehensive dataset comprising Oscar-nominated or winning films and their respective release years.
+1. Collecting a comprehensive dataset comprising Oscar winning films and their respective release years.
 2. Compiling data on the availability of these films on Netflix, including the year of their addition to the platform.
 3. Analyzing the temporal relationship between the release years of Oscar-recognized films and their availability on Netflix.
 4. Identifying any trends, patterns, or correlations that may exist between these variables.
