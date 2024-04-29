@@ -2,7 +2,7 @@
 
 ## Abstract:
 
-This project proposal aims to investigate the relationship between the release year of films nominated or won for the Oscars and the year they are made available on Netflix. Through empirical analysis, we seek to uncover patterns and trends that may exist between these two variables. Understanding such relationships could offer insights into Netflix's content acquisition strategies, audience preferences, and the impact of prestigious awards on streaming platforms.
+This project proposal aims to investigate the relationship between the release year of films  won for the Oscars and the year they are made available on Netflix. Through empirical analysis, we seek to uncover patterns and trends that may exist between these two variables. Understanding such relationships could offer insights into Netflix's content acquisition strategies, audience preferences, and the impact of prestigious awards on streaming platforms.
 
 ## Introduction:
 
