@@ -1,4 +1,4 @@
-# Project Proposal: Relationship between Oscar-Nominated Films Release Year and Netflix Availability
+# Project Proposal: Relationship between Oscar-Winner Films Release Year and Netflix Availability
 
 ## Abstract:
 
