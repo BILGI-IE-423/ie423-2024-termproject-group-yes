@@ -22,4 +22,4 @@ The primary objective of this study is to investigate the relationship between t
 
 By achieving these objectives, we aim to contribute valuable insights to both the academic discourse on film distribution and the industry practices of streaming platforms like Netflix.
 ## Dataset:
-https://www.kaggle.com/datasets/unanimad/the-oscar-award
+(https://www.kaggle.com/datasets/pushpakhinglaspure/oscar-dataset/data)
