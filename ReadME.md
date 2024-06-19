@@ -242,9 +242,7 @@ The primary objective of this model is to inform screenwriters about the average
 based on its category. By understanding these trends, screenwriters can tailor their scripts to align
 with audience expectations on Netflix.
 
-# Data Story for the First Model For Screenwriter:
-
-# Analyzing the Average Duration of Films on Netflix
+# Data Story for the First Model For Screenwriter:Analyzing the Average Duration of Films on Netflix
 
 # Based on Category
 
