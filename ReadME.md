@@ -305,9 +305,7 @@ compelling and appropriately timed content for the streaming platform.
     Neighbors algorithm.
 - Algorithm: The Nearest Neighbors algorithm is used to find movies similar to a given
     movie based on the reduced PCA features.
-- Recommendation Criteria: The system prioritizes movies with high IMDb scores
-
-## (above 7) or those that have won an Oscar.
+- Recommendation Criteria: The system prioritizes movies with high IMDb scores (above 7) or those that have won an Oscar.
 <div align="center">
     <img src=https://github.com/BILGI-IE-423/ie423-2024-termproject-group-yes/blob/main/Datasets/training%20set.png>
 </div>
