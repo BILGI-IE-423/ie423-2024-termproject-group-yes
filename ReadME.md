@@ -225,9 +225,7 @@ This step creates a new column combined_features by concatenating the descriptio
 columns, filling any NaN values with empty strings before concatenation. This combined text
 will be used for TF-IDF (Term Frequency-Inverse Document Frequency) vectorization.
 
-# Data Story for the First Model For Screenwriter:Analyzing the Average Duration of Films on Netflix
-
-# Based on Category
+# Data Story for the First Model For Screenwriter:Analyzing the Average Duration of Films on Netflix Based on Category
 
 In the dynamic world of streaming services, creating content that resonates with the audience is
 key. For screenwriters aiming to craft films for Netflix, understanding the typical duration of
