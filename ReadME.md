@@ -140,7 +140,7 @@ y = netflix_movies['duration']” This step prepares the feature matrix X and th
     with listed_in_ (resulting from one-hot encoding).
 - **y** : The target variable is set to the duration column, which contains the movie durations.
 
-
+#Summary
 1. Filter Data: Select only movies.
 2. Handle Missing Values: Remove rows with missing release_year, duration, or listed_in.
 3. Clean duration: Remove ' min' and convert to integers.
