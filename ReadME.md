@@ -441,3 +441,8 @@ gantt
     section Reporting
     Final Review                       : active, p9, 2024-06-10, 2024-06-19
 
+#Team name:Group YES
+#Team Members:
+Yusuf Bulut:120203030
+Enes Can:120203029
+Selin Güngör:120203051
