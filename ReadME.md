@@ -243,7 +243,7 @@ with audience expectations on Netflix.
 
 **Initial Model Performance**
 <div align="center">
-    <img src="https://github.com/BILGI-IE-423/ie423-2024-termproject-group-yes/blob/main/Datasets/output.png width=>
+    <img src="https://github.com/BILGI-IE-423/ie423-2024-termproject-group-yes/blob/main/Datasets/output.png"
 </div>
 <div align="left">
 - **Horizontal Line Trend** : Most predicted values cluster around zero, forming a horizontal
