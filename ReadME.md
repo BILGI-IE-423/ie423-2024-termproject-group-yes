@@ -54,11 +54,11 @@ creators and consumers on Netflix, fostering a more tailored and enjoyable viewi
 
 # Dataset Used
 
-Netflix Movies and Tv Shows
+[Netflix Movies and Tv Shows] (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-Oscar Winners
+[Oscar Winners] (https://www.kaggle.com/datasets/pushpakhinglaspure/oscar-dataset/data)
 
-IMDB Ratings
+[IMDB Ratings] (https://www.kaggle.com/datasets/sukhmandeepsinghbrar/netflix-all-movie-ratings-by-imdb)
 
 # Research Questions:
 
