@@ -19,9 +19,9 @@ gantt
     Data Preprocessing       : done,   p5, 2024-04-17, 2024-05-01
 
     section Modelling
-    Choosing the Model                   : active, p6,2024-05-02, 2024-05-10
-    Training the Model                   : active, p7, 2024-05-11, 2024-05-18
-    Testing the Model               : active, p8, 2024-05-19, 2024-05-22
-
+    Choosing the Model                   : done, p6,2024-05-02, 2024-05-10
+    Training the Model                   : done, p7, 2024-05-11, 2024-05-18
+    Testing the Model                    : done, p8, 2024-05-19, 2024-05-22
+    Evaluating the Model                 : done, p9,2024-05-22, 2024-06-10
     section Reporting
-    Final Review                       : active, p9, 2024-05-23, 2024-06-02
+    Final Review                       : active, p9, 2024-06-10, 2024-06-19
