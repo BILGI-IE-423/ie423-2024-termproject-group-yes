@@ -440,9 +440,11 @@ gantt
      Evaluating the Model                 : done, p9,2024-05-22, 2024-06-10
     section Reporting
     Final Review                       : active, p9, 2024-06-10, 2024-06-19
+```
+Team Name: _**Group YES**_
 
-#Team name:Group YES
-#Team Members:
-Yusuf Bulut:120203030
-Enes Can:120203029
-Selin Güngör:120203051
+Team Members: 
+- Yusuf Bulut 120203030
+- Selin Güngör 120203051 
+- Enes Can 120203029
+
