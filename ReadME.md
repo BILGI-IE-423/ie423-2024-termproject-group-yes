@@ -225,23 +225,6 @@ This step creates a new column combined_features by concatenating the descriptio
 columns, filling any NaN values with empty strings before concatenation. This combined text
 will be used for TF-IDF (Term Frequency-Inverse Document Frequency) vectorization.
 
-# Data Story for the First Model: Analyzing the Average
-
-# Duration of Films on Netflix Based on Category
-
-In the dynamic world of streaming services, creating content that resonates with the audience is
-key. For screenwriters aiming to craft films for Netflix, understanding the typical duration of
-films across different genres can provide invaluable guidance. This study leverages machine
-learning to analyze and visualize the average duration of films based on their categories, offering
-a data-driven approach to scriptwriting.
-
-**Overview of the Analysis**
-
-
-The primary objective of this model is to inform screenwriters about the average film duration
-based on its category. By understanding these trends, screenwriters can tailor their scripts to align
-with audience expectations on Netflix.
-
 # Data Story for the First Model For Screenwriter:Analyzing the Average Duration of Films on Netflix
 
 # Based on Category
@@ -313,9 +296,7 @@ length of their films, ensuring they align with viewer expectations and industry
 visualizations and data analysis presented in this study serve as a practical tool for creating
 compelling and appropriately timed content for the streaming platform.
 
-# Data Story for the Second Model For Viewer:
-
-# Recommendation Films on Netflix Based on Category
+# Data Story for the Second Model For Viewer:Recommendation Films on Netflix Based on Category
 
 - TF-IDF Features: The text descriptions of the movies are transformed into numerical
     vectors using TF-IDF. This captures the importance of words in each movie description.
