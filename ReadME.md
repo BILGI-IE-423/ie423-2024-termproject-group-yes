@@ -68,7 +68,7 @@ What is the relationship between Oscar-Winner films and Netflix Availability?
 
 Is there a relationship between IMDB and Netflix?
 
-# Preprocessing Step or the model for screenwriters:
+# Preprocessing Step or the Model for Screenwriters:
 
 **Filter the Data:**
 
@@ -150,6 +150,9 @@ y = netflix_movies['duration']” This step prepares the feature matrix X and th
 6. One-Hot Encoding: Convert categorical listed_in column to multiple binary columns.
 7. Prepare Features and Target: Select relevant columns for features and set the target
     variable.
+
+
+# Preprocessing Step or the Model for Viewer:
 
 **Merging netflix_titles with Oscar data frame** :
 
